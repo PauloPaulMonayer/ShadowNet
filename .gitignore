@@ -1,0 +1,20 @@
+# Python garbage
+__pycache__/
+*.py[cod]
+
+# Executables and builds
+dist/
+build/
+*.spec
+*.exe
+
+# SSL Keys & Certificates (NEVER UPLOAD THESE)
+*.key
+*.crt
+*.pem
+
+# IDE settings
+.vscode/
+
+server.key 
+server.crt
