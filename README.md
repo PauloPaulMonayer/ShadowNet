@@ -26,7 +26,7 @@ Ensure you have **Python 3.x** installed on your attacker machine (Windows/Linux
 ### 2. Install Dependencies
 Run the following command to install the required libraries:
 
-```bash
+
 pip install pyinstaller pillow pyopenssl
 pyinstaller: For compiling the agent into an EXE.
 
@@ -104,6 +104,7 @@ Make sure you ran generate_cert.py before starting the server.
 
 ⚖️ Legal Disclaimer
 This tool is for educational purposes and authorized security testing only. Using this tool on networks or devices without explicit permission is illegal. The developer assumes no responsibility for misuse.
+
 
 
 ---
